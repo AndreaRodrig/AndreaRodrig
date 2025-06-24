@@ -12,7 +12,7 @@ Soy **Data Scientist** con un fuerte interés en **Machine Learning**. Mi experi
 - **Machine Learning y AI:** Modelos supervisados y no supervisados, Deep Learning, Predicción y Análisis Predictivo
 - **Generative AI:** ChatGPT, Copilot, BlackBox AI
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos
 
 ### 🚗 [Análisis de ventas de vehículos - Data Science Bootcamp](https://github.com/AndreaRodrig/VehiclesAnalysis)
 
