@@ -14,7 +14,7 @@ Soy **Data Scientist** con un fuerte interés en **Machine Learning**. Mi experi
 
 ## 🚀 Proyectos
 
-### 🚗 [Análisis de ventas de vehículos - Data Science Bootcamp](https://github.com/AndreaRodrig/VehiclesAnalysis)
+### 🚗 [Análisis de ventas de vehículos - Data Science Bootcamp](https://github.com/AndreaRodrig/VehiclesAnalisys)
 
 - Realicé un análisis completo de datos de ventas de vehículos usando Python, incluyendo limpieza de datos, análisis exploratorio y visualización.
 - Herramientas: **Python**, **Pandas**, **Matplotlib**, **Git**
