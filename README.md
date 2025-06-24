@@ -34,7 +34,6 @@ Soy **Data Scientist** con un fuerte interés en **Machine Learning**. Mi experi
 
 - **LinkedIn:** [Andrea Rodríguez Hernández](https://www.linkedin.com/in/andrearodriguez/)
 - **Email:** andrehv6@gmail.com
-- **GitHub:** [@AndreaRodrig](https://github.com/AndreaRodrig)
 
 ## 💬 Hablemos
 
