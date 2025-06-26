@@ -36,6 +36,6 @@ B.Sc. in Physics - University of Colima (2020)
 
 🌐 Find me on:
 
-LinkedIn: [Andrea Rodríguez Hernández](https://www.linkedin.com/in/andrearodriguez/)
+LinkedIn: https://www.linkedin.com/in/andrea-rodr%C3%ADguez-hern%C3%A1ndez-80008a239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 Email: andrehv6@gmail.com
