@@ -35,6 +35,7 @@ M.Sc. in Process Engineering - University of Colima (2022)
 B.Sc. in Physics - University of Colima (2020)
 
 🌐 Find me on:
-LinkedIn: Andrea Rodríguez Hernández
+
+LinkedIn: [Andrea Rodríguez Hernández](https://www.linkedin.com/in/andrearodriguez/)
 
 Email: andrehv6@gmail.com
