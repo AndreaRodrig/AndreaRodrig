@@ -1,40 +1,40 @@
-# ¡Hola, soy Andrea Rodríguez Hernández 👩‍💻
+Hi, I'm Andrea Rodríguez Hernández 👩‍💻
+I'm a Data Scientist with a strong interest in Machine Learning. My experience ranges from building predictive models to advanced data visualization, using technologies like Python, R, SQL, Power BI, and Azure. I also have a solid background in Physics, which allows me to tackle complex problems with an analytical and quantitative approach.
 
-Soy **Data Scientist** con un fuerte interés en **Machine Learning**. Mi experiencia abarca desde la creación de modelos predictivos hasta la visualización avanzada de datos, utilizando tecnologías como **Python**, **R**, **SQL**, **Power BI** y **Azure**. Además, tengo una sólida formación en **Física** que me permite abordar problemas complejos con un enfoque analítico y cuantitativo.
+🔧 Technologies I Master
+Programming Languages: Python (Pandas, Numpy, scikit-learn, TensorFlow, PyTorch), R, SQL, Bash
 
-## 🔧 Tecnologías que domino
+Databases: SQL Server, MySQL, PostgreSQL
 
-- **Lenguajes de Programación:** Python (Pandas, Numpy, scikit-learn, TensorFlow, PyTorch), R, SQL, Bash
-- **Bases de Datos:** SQL Server, MySQL, PostgreSQL
-- **Herramientas de Visualización:** Power BI, Matplotlib, Seaborn
-- **Plataformas en la Nube:** Azure (Data Lake, Databricks), Google Compute Engine
-- **Herramientas y Librerías:** Git, Jira, Numba, Power Query
-- **Machine Learning y AI:** Modelos supervisados y no supervisados, Deep Learning, Predicción y Análisis Predictivo
-- **Generative AI:** ChatGPT, Copilot, BlackBox AI
+Visualization Tools: Power BI, Matplotlib, Seaborn
 
-## 🚀 Proyectos
+Cloud Platforms: Azure (Data Lake, Databricks), Google Compute Engine
 
-### 🚗 [Análisis de ventas de vehículos - Data Science Bootcamp](https://github.com/AndreaRodrig/VehiclesAnalisys)
+Tools and Libraries: Git, Jira, Numba, Power Query
 
-- Realicé un análisis completo de datos de ventas de vehículos usando Python, incluyendo limpieza de datos, análisis exploratorio y visualización.
-- Herramientas: **Python**, **Pandas**, **Matplotlib**, **Git**
+Machine Learning & AI: Supervised and unsupervised models, Deep Learning, Predictive Modeling and Analysis
 
-### 📊 [Solver numérico para ecuaciones diferenciales](https://github.com/AndreaRodrig/VectorField)
+Generative AI: ChatGPT, Copilot, BlackBox AI
 
-- Desarrollé un programa en **C** para resolver sistemas de ecuaciones diferenciales utilizando el método de Dormand–Prince.
-- Publicado en una revista científica internacional.
+🚀 Projects
+🚗 Vehicle Sales Analysis - Data Science Bootcamp
+Conducted a comprehensive analysis of vehicle sales data using Python, including data cleaning, exploratory analysis, and visualization.
 
-## 📚 Educación
+Tools: Python, Pandas, Matplotlib, Git
 
-- **Data Science Bootcamp** - *Tripleten* (En curso)
-- **M.Sc. en Ingeniería de Procesos** - *Universidad de Colima* (2022)
-- **B.S. en Física** - *Universidad de Colima* (2020)
+📊 Numerical Solver for Differential Equations
+Developed a C program to solve systems of differential equations using the Dormand–Prince method.
 
-## 🌐 Encuéntrame en:
+Published in an international scientific journal.
 
-- **LinkedIn:** [Andrea Rodríguez Hernández](https://www.linkedin.com/in/andrearodriguez/)
-- **Email:** andrehv6@gmail.com
+📚 Education
+Data Science Bootcamp - Tripleten (In progress)
 
-## 💬 Hablemos
+M.Sc. in Process Engineering - University of Colima (2022)
 
-¡Siempre estoy buscando nuevas oportunidades para aprender y colaborar en proyectos interesantes! Si tienes alguna pregunta o simplemente quieres conectar, no dudes en contactarme.
+B.Sc. in Physics - University of Colima (2020)
+
+🌐 Find me on:
+LinkedIn: Andrea Rodríguez Hernández
+
+Email: andrehv6@gmail.com
