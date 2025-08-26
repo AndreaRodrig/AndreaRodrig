@@ -1,20 +1,17 @@
 Hi, I'm Andrea Rodríguez Hernández 👩‍💻
-I'm a Data Scientist with a strong interest in Machine Learning. My experience ranges from building predictive models to advanced data visualization, using technologies like Python, R, SQL, Power BI, and Azure. I also have a solid background in Physics, which allows me to tackle complex problems with an analytical and quantitative approach.
 
-🔧 Technologies I Master
-Programming Languages: Python (Pandas, Numpy, scikit-learn, TensorFlow, PyTorch), R, SQL, Bash
+I'm a Data Scientist with a background in Physics and experience developing predictive models, statistical analysis, and data visualizations to solve real-world business challenges. I've worked in corporate environments applying machine learning, data science, and exploratory analysis to improve processes, generate actionable insights, and support data-driven decision-making.
 
-Databases: SQL Server, MySQL, PostgreSQL
+I'm proficient in tools like Python, R, SQL, and Power BI, and experienced with libraries such as pandas, scikit-learn, TensorFlow, and ggplot2. My project work includes churn prediction, RFM-based customer segmentation, report automation, dashboards integrated with SAP, and process optimization using algorithms and GPU acceleration.
 
-Visualization Tools: Power BI, Matplotlib, Seaborn
+I’m known for my analytical mindset, logical thinking, technical curiosity, and results-oriented approach.
 
-Cloud Platforms: Azure (Data Lake, Databricks), Google Compute Engine
-
-Tools and Libraries: Git, Jira, Numba, Power Query
-
-Machine Learning & AI: Supervised and unsupervised models, Deep Learning, Predictive Modeling and Analysis
-
-Generative AI: ChatGPT, Copilot, BlackBox AI
+💡 Core Skills & Tools:
+• Languages: Python (NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch), R, SQL, Bash, C
+• ML & Analytics: Predictive Modeling, Time Series, Clustering, Statistical Analysis
+• BI & Visualization: Power BI, Matplotlib, Seaborn, Power Query
+• Cloud & Platforms: Azure (Data Lake, Databricks, AI Services), Google Cloud Platform
+• Tools: Git, Jira, Linux, SAP, GitHub Copilot, ChatGPT, BlackBox AI
 
 🚀 Projects
 🚗 Vehicle Sales Analysis - Data Science Bootcamp
